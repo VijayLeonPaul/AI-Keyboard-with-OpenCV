@@ -30,7 +30,7 @@ def drawAll(img, buttonList):
     return img
 
 
-#
+
 # def drawAll(img, buttonList):
 #     imgNew = np.zeros_like(img, np.uint8)
 #     for button in buttonList:
